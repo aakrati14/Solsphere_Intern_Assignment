@@ -1,0 +1,6 @@
+{
+    "disk_encryption": false,
+    "os_update": "Might be outdated",
+    "antivirus": "Antivirus running",
+    "sleep_settings": "Sleep exceeds 10 min (15 min)"
+}

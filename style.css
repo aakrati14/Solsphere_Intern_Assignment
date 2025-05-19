@@ -1,0 +1,81 @@
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background: #f4f7fa;
+  color: #333;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 900px;
+  margin: 40px auto;
+  padding: 20px;
+  background: white;
+  border-radius: 10px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+  text-align: center;
+  color: #2c3e50;
+}
+
+input[type="text"] {
+  width: calc(100% - 120px);
+  padding: 10px;
+  margin: 10px 0;
+  border: 2px solid #ccc;
+  border-radius: 8px;
+  font-size: 16px;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: #3498db;
+  color: white;
+  font-weight: bold;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  margin-left: 10px;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #2980b9;
+}
+
+#result, #all-reports {
+  margin-top: 20px;
+}
+
+.report-card {
+  background-color: #ecf0f1;
+  padding: 15px;
+  margin: 10px 0;
+  border-left: 5px solid #3498db;
+  border-radius: 6px;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+ul li {
+  padding: 5px 0;
+}
+
+select, .filter-section {
+  margin-top: 15px;
+  margin-bottom: 20px;
+}
+
+.csv-button {
+  float: right;
+  background-color: #27ae60;
+}
+
+.csv-button:hover {
+  background-color: #219150;
+}
