@@ -122,4 +122,15 @@ Frontend:
 - CSV export
 - Filters by OS status, antivirus, sleep issues, etc.
 
+## 🌍 Live Deployment Links
+
+### ✅ Backend API (Flask)
+🔗 [https://your-backend-url.up.railway.app](https://your-backend-url.up.railway.app)
+
+### 🌐 Admin Dashboard (Frontend)
+🔗 [ https://system-health-frontend-dashboard01.netlify.app/ ]
+
+> ℹ️ Note: The system utility (`system_checker.py`) is meant to run locally and is not deployed online.
+
+
 
