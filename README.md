@@ -121,7 +121,7 @@ Frontend:
 - Filters by OS status, antivirus, sleep issues, etc.
 
 ## 🌍 Live Deployment Links
-### 🌐 Admin Dashboard (Frontend)
+### 🌐 Admin Dashboard
 🔗 [ https://system-health-frontend-dashboard01.netlify.app/ ]
 
 > ℹ️ Note: The system utility (`system_checker.py`) is meant to run locally and is not deployed online.
