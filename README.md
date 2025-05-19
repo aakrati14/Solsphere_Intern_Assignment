@@ -98,8 +98,6 @@ python system_checker.py
 ![Utility_output](https://github.com/user-attachments/assets/b4924847-0a06-4bac-a2d1-27edff896b11)
 
 
-
-
 🛡️ Features Summary
 System Utility
 Checks:
@@ -123,10 +121,6 @@ Frontend:
 - Filters by OS status, antivirus, sleep issues, etc.
 
 ## 🌍 Live Deployment Links
-
-### ✅ Backend API (Flask)
-🔗 [https://your-backend-url.up.railway.app](https://your-backend-url.up.railway.app)
-
 ### 🌐 Admin Dashboard (Frontend)
 🔗 [ https://system-health-frontend-dashboard01.netlify.app/ ]
 
