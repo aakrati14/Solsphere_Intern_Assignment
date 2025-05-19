@@ -65,15 +65,15 @@ submission_package/
 
 🚀 Setup Instructions
 🖥️ 1. Run Backend Server (Flask)
-bash:
+bash
 cd backend
 pip install flask flask-cors
 python app.py
 
-- Server will start at http://127.0.0.1:5000/
+- Server will start at http://127.0.0.1:5000/reports
 
 ✅ 2. Run System Utility
-bash:
+bash
 cd utility
 pip install schedule requests
 python system_checker.py
@@ -95,7 +95,8 @@ python system_checker.py
 
 🌐 Utility Output 
 
-![Uploading Utility_output.png…]()
+![Utility_output](https://github.com/user-attachments/assets/b4924847-0a06-4bac-a2d1-27edff896b11)
+
 
 
 
